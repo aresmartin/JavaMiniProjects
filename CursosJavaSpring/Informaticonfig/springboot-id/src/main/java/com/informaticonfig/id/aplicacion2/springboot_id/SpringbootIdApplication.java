@@ -1,13 +1,13 @@
-package com.informaticonfig.spring.app1.springboot_applications;
+package com.informaticonfig.id.aplicacion2.springboot_id;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringbootApplicationsApplication {
+public class SpringbootIdApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootApplicationsApplication.class, args);
+		SpringApplication.run(SpringbootIdApplication.class, args);
 	}
 
 }
