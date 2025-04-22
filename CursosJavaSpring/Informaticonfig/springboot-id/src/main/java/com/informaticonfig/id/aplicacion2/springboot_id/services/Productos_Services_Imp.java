@@ -27,7 +27,7 @@ public class Productos_Services_Imp implements ProductoServicios {
 
     @Override
     public Productos buscaId(Long idProducto){
-        
+
         return repositorio.buscaId(idProducto);
     }
 }
